@@ -31,7 +31,7 @@ public class ArrayTest
         for (int i = 0; i < intArray.length; i++) {
             newIntArr[i] = intArray[i] + 5;
         }
-        
+
         System.out.println(Arrays.toString(newIntArr));
     }
 }
